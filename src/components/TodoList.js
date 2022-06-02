@@ -1,4 +1,4 @@
-// todoList
+// TODO: todoList
 import React from 'react'
 
 const TodoList = () => {
